@@ -5,7 +5,7 @@ Robert Sama app for cricri
 Music and vidéo app...
 Idk what more to say.
 
-## fonctionnalités :  
+## Fonctionnalités :  
 - Playlists
 - Notification controls
 - Player page
