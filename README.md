@@ -22,3 +22,8 @@ Idk what more to say.
 
 <u>Stable :</u>  
 No stable builds for now
+
+
+Ce projet est distribué sous licence MIT.  
+Cela signifie que vous pouvez l’utiliser, le modifier et le redistribuer librement, à condition de conserver la mention d’auteur.  
+Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
