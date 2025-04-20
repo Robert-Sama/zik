@@ -11,6 +11,7 @@ Idk what more to say.
 - Player page
 - filter : alphabetical, date, by name
 - background play
+- automatic play
 
 ## Problèmes :  
 - No problems, only skill issues
