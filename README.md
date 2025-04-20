@@ -15,7 +15,7 @@ Idk what more to say.
 ## Problèmes :  
 - No problems, only skill issues
 
-## Versions
+## Versions :  
 <u>Latest :</u>  
 <u>Stable :</u>  
-- v1.1.0-alpha : [Télécharger](https://github.com/Robert-Sama/zik/releases/tag/v1.0.0)
+- v1.1.0-alpha : [Télécharger](https://github.com/Robert-Sama/zik/releases/tag/v1.0.0/app-release.apk)
