@@ -17,6 +17,7 @@ Idk what more to say.
 
 ## Versions :  
 <u>Latest :</u>  
-- v1.1.0-alpha : [Télécharger](https://github.com/Robert-Sama/zik/releases/tag/v1.0.0/app-release.apk)  
+- v1.1.0-alpha : [Télécharger](https://github.com/Robert-Sama/zik/releases/tag/v1.0.0/app-release.apk)
+
 <u>Stable :</u>  
 No stable builds for now
