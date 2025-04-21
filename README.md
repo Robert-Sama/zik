@@ -14,8 +14,9 @@ Idk what more to say.
 - automatic play
 
 ## Problèmes :  
-- No problems, only skill issues  
+- No problems, only skill issues (idk what im doing)  
   Also, the UI is very shit
+- Not compatible with Apple (yet)
 
 ## Versions :  
 <u>Latest :</u>  
