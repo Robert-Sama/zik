@@ -14,7 +14,7 @@ Idk what more to say.
 - automatic play
 
 ## Problèmes :  
-- No problems, only skill issues
+- No problems, only skill issues  
   Also, the UI is very shit
 
 ## Versions :  
