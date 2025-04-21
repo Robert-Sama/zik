@@ -1,5 +1,6 @@
 # Mobile app project
 Robert Sama app for cricri  
+Lien répertoire GitHub : https://github.com/Robert-Sama/zik
 
 ## Description :  
 Music and vidéo app...
@@ -14,7 +15,9 @@ Idk what more to say.
 - automatic play
 
 ## Problèmes :  
-- No problems, only skill issues
+- No problems, only skill issues (idk what im doing)  
+  Also, the UI is very shit
+- Not compatible with Apple (yet)
 
 ## Versions :  
 <u>Latest :</u>  
