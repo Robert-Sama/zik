@@ -55,7 +55,7 @@ androidx.media:media:1.6.0
 androidx.navigation:navigation-compose:2.8.9  
 
 ---
-
+## Licence
 Ce projet est distribué sous licence MIT.  
 Cela signifie que vous pouvez l’utiliser, le modifier et le redistribuer librement, à condition de conserver la mention d’auteur.  
 Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
